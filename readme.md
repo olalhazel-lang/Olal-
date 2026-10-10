@@ -1,7 +1,7 @@
 # olal's eyes
 A striking study in perspective and light.Captured with a sharp,macro focus,this image highlights the detailed depth,texture,and natural luminance of Olal's gaze.Serving as both a potrait of identity and an anchor of emotion,the photograph invites the viewer to look beyond the surface and engage directly with the observer behind the lens
 ## features
-Expressive depth
+Expressive depth:
 Distinct Physical Traits:Highlighting unique iris patterns,richpigmentation.striking contrast against the sclera
 Percpective Quality:Framing olal as a witness or keen observer  
 Sharp focus and fine Detailed:Emphasizing the intricate web-like textures,crypts,and fiber rings of the iris
