@@ -6,8 +6,12 @@ A clean, mordern. and responsive portfolio website showcasing narrative photogra
 - **Boxed list layout:** styled orederd list highlighting favourite photogrphy styles or scenes. 
 - **About Us Section:** Background information on the photography team.
 _ **Contact & Social Footer:** Direct email link and social media connections (Instagram, Facebook, Twitter)
-## How to View
-- HTML (semantic elements)
-- CSS (Fexbox, Custom styling, Card layouts, hover effects)
-- Git & Github (Version Control)
+## Technologies Used
+- HTML (Semantic elements)
+- CSS (Flexbox, custom styling, card layouts, hover effects)
+- Git & Github (Version control)
+## How to view
+1. Clone or download this repository.
+2. Open 'index.html' in your favourite web browser.
+
 
